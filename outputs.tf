@@ -22,4 +22,5 @@ output "certificates" {
     issuer_pem         = certificate.issuer_pem
     certificate_p12    = certificate.certificate_p12
   }]
+  sensitive = true
 }
