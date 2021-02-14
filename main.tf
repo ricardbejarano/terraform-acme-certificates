@@ -1,5 +1,5 @@
 terraform {
-  experiments = [module_variable_optional_attrs]
+  experiments = [provider_sensitive_attrs, module_variable_optional_attrs]
 
   required_providers {
     acme = {
