@@ -1,6 +1,6 @@
-<p align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/271/globe-showing-europe-africa_1f30d.png" width="120px"></p>
-<h1 align="center">terraform-acme-certificates</h1>
-<p align="center">A <a href="https://www.terraform.io/">Terraform</a> module for the <a href="https://tools.ietf.org/html/rfc8555">ACMEv2</a> protocol</p>
+# terraform-acme-certificates
+
+A [Terraform](https://www.terraform.io/) module for the [ACMEv2](https://tools.ietf.org/html/rfc8555) protocol.
 
 
 ## Usage
